@@ -1,0 +1,52 @@
+//Navbar//
+
+.navbar .title { 
+    text-align:center;
+    background-color: rgb(234, 56, 56);  
+} #button-home{  
+    background-color: rgb(247, 200, 142);
+    border-radius: 10%;
+} #button-Login{
+    float:right;
+    background-color: rgb(247, 200, 142);
+    border-radius: 10%;
+}
+
+////
+
+body {background-color: bisque;}
+
+//Home//
+
+.PresentationText h2{
+   
+    text-align: center;
+    color: rgb(211, 35, 35);
+    margin-top: 50px;
+    margin-bottom: 150px;
+} h3{
+    font-style: oblique;
+    text-align: center;   
+} .LinktoCreateDiary{    
+    color: rgb(211, 35, 35);
+    // border-color: 3px solid rgb(211, 35, 35) ;
+    // border-radius: 10%;
+    // text-decoration:none;
+}
+
+//Form//
+.NewLoginForm{
+    text-align: center;    
+}
+Form {
+    text-align:center;
+    margin-top: 150px;
+} label, input{    
+    color:red; 
+    
+} 
+label{
+    border-color: 4px solid red;
+    margin-bottom:20px;    
+    
+}
